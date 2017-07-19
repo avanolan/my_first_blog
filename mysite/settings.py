@@ -25,7 +25,7 @@ SECRET_KEY = 'v@)hh)-rfkp*g50me$(7s_@(_#h$8p8tlp(lf^(la2y)_da1v1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['avanolan1.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'avanolan1.pythonanywhere.com']
 
 
 # Application definition
